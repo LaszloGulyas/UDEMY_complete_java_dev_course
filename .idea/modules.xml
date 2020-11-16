@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_Hello_World/001_Hello_World.iml" filepath="$PROJECT_DIR$/001_Hello_World/001_Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003_Keywords_Expressions/003_Keywords_Expressions.iml" filepath="$PROJECT_DIR$/003_Keywords_Expressions/003_Keywords_Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004_IfKeyword_and_CodeBlocks/004_IfKeyword_and_CodeBlocks.iml" filepath="$PROJECT_DIR$/004_IfKeyword_and_CodeBlocks/004_IfKeyword_and_CodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005_Methods/005_Methods.iml" filepath="$PROJECT_DIR$/005_Methods/005_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006_checkNumber/006_checkNumber.iml" filepath="$PROJECT_DIR$/006_checkNumber/006_checkNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007_SpeedConverter/007_SpeedConverter.iml" filepath="$PROJECT_DIR$/007_SpeedConverter/007_SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008_Bytes/008_Bytes.iml" filepath="$PROJECT_DIR$/008_Bytes/008_Bytes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009_Barking_Dog/009_Barking_Dog.iml" filepath="$PROJECT_DIR$/009_Barking_Dog/009_Barking_Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010_Leap_Year_Calculator/010_Leap_Year_Calculator.iml" filepath="$PROJECT_DIR$/010_Leap_Year_Calculator/010_Leap_Year_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011_Decimal_Comparator/011_Decimal_Comparator.iml" filepath="$PROJECT_DIR$/011_Decimal_Comparator/011_Decimal_Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012_Overloading/012_Overloading.iml" filepath="$PROJECT_DIR$/012_Overloading/012_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013_Minutes_Seconds/013_Minutes_Seconds.iml" filepath="$PROJECT_DIR$/013_Minutes_Seconds/013_Minutes_Seconds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014_Area_Calculator/014_Area_Calculator.iml" filepath="$PROJECT_DIR$/014_Area_Calculator/014_Area_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015_Minutes_To_Years_And_Days/015_Minutes_To_Years_And_Days.iml" filepath="$PROJECT_DIR$/015_Minutes_To_Years_And_Days/015_Minutes_To_Years_And_Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016_Equality_Printer/016_Equality_Printer.iml" filepath="$PROJECT_DIR$/016_Equality_Printer/016_Equality_Printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017_Playing_Cat/017_Playing_Cat.iml" filepath="$PROJECT_DIR$/017_Playing_Cat/017_Playing_Cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018_Switch_Statement/018_Switch_Statement.iml" filepath="$PROJECT_DIR$/018_Switch_Statement/018_Switch_Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019_Day_Of_The_Week/019_Day_Of_The_Week.iml" filepath="$PROJECT_DIR$/019_Day_Of_The_Week/019_Day_Of_The_Week.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020_Number_In_Word/020_Number_In_Word.iml" filepath="$PROJECT_DIR$/020_Number_In_Word/020_Number_In_Word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021_Number_Of_Days_In_Month/021_Number_Of_Days_In_Month.iml" filepath="$PROJECT_DIR$/021_Number_Of_Days_In_Month/021_Number_Of_Days_In_Month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022_The_For_Statement/022_The_For_Statement.iml" filepath="$PROJECT_DIR$/022_The_For_Statement/022_The_For_Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023_Sum_3_and_5/023_Sum_3_and_5.iml" filepath="$PROJECT_DIR$/023_Sum_3_and_5/023_Sum_3_and_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024_Sum_Odd/024_Sum_Odd.iml" filepath="$PROJECT_DIR$/024_Sum_Odd/024_Sum_Odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/025_While_And_Do_While/025_While_And_Do_While.iml" filepath="$PROJECT_DIR$/025_While_And_Do_While/025_While_And_Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/026_Digit_Sum/026_Digit_Sum.iml" filepath="$PROJECT_DIR$/026_Digit_Sum/026_Digit_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/027_Palindrom/027_Palindrom.iml" filepath="$PROJECT_DIR$/027_Palindrom/027_Palindrom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/028_First_And_Last_Digit_Sum/028_First_And_Last_Digit_Sum.iml" filepath="$PROJECT_DIR$/028_First_And_Last_Digit_Sum/028_First_And_Last_Digit_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/029_Even_Digit_Sum/029_Even_Digit_Sum.iml" filepath="$PROJECT_DIR$/029_Even_Digit_Sum/029_Even_Digit_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/030_Shared_Digit/030_Shared_Digit.iml" filepath="$PROJECT_DIR$/030_Shared_Digit/030_Shared_Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/031_Last_Digit_Checker/031_Last_Digit_Checker.iml" filepath="$PROJECT_DIR$/031_Last_Digit_Checker/031_Last_Digit_Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/032_Greatest_Common_Divisor/032_Greatest_Common_Divisor.iml" filepath="$PROJECT_DIR$/032_Greatest_Common_Divisor/032_Greatest_Common_Divisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/033_All_Factors/033_All_Factors.iml" filepath="$PROJECT_DIR$/033_All_Factors/033_All_Factors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/034_Perfect_Number/034_Perfect_Number.iml" filepath="$PROJECT_DIR$/034_Perfect_Number/034_Perfect_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/035_Number_To_Words/035_Number_To_Words.iml" filepath="$PROJECT_DIR$/035_Number_To_Words/035_Number_To_Words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/036_Parsing_Values_From_String/036_Parsing_Values_From_String.iml" filepath="$PROJECT_DIR$/036_Parsing_Values_From_String/036_Parsing_Values_From_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/037_Flour_Pack_Problem/037_Flour_Pack_Problem.iml" filepath="$PROJECT_DIR$/037_Flour_Pack_Problem/037_Flour_Pack_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/038_Largest_Prime/038_Largest_Prime.iml" filepath="$PROJECT_DIR$/038_Largest_Prime/038_Largest_Prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/039_Diagonal_Star/039_Diagonal_Star.iml" filepath="$PROJECT_DIR$/039_Diagonal_Star/039_Diagonal_Star.iml" />
+      <module fileurl="file://$PROJECT_DIR$/040_Reading_User_Input/040_Reading_User_Input.iml" filepath="$PROJECT_DIR$/040_Reading_User_Input/040_Reading_User_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/041_Reading_User_Input_Challenge/041_Reading_User_Input_Challenge.iml" filepath="$PROJECT_DIR$/041_Reading_User_Input_Challenge/041_Reading_User_Input_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/042_Min_And_Max/042_Min_And_Max.iml" filepath="$PROJECT_DIR$/042_Min_And_Max/042_Min_And_Max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/043_Input_Calculator/043_Input_Calculator.iml" filepath="$PROJECT_DIR$/043_Input_Calculator/043_Input_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/044_Paint_Job/044_Paint_Job.iml" filepath="$PROJECT_DIR$/044_Paint_Job/044_Paint_Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/045/045.iml" filepath="$PROJECT_DIR$/045/045.iml" />
+      <module fileurl="file://$PROJECT_DIR$/046_Sum_Calculator/046_Sum_Calculator.iml" filepath="$PROJECT_DIR$/046_Sum_Calculator/046_Sum_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/047_Person/047_Person.iml" filepath="$PROJECT_DIR$/047_Person/047_Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/048_Bank_Account/048_Bank_Account.iml" filepath="$PROJECT_DIR$/048_Bank_Account/048_Bank_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/055_Inheritance_challenge/055_Inheritance_challenge.iml" filepath="$PROJECT_DIR$/055_Inheritance_challenge/055_Inheritance_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/075_Encapsulation/075_Encapsulation.iml" filepath="$PROJECT_DIR$/075_Encapsulation/075_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/076_Encapsulation_Challenge/076_Encapsulation_Challenge.iml" filepath="$PROJECT_DIR$/076_Encapsulation_Challenge/076_Encapsulation_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/077_Polymorphism/077_Polymorphism.iml" filepath="$PROJECT_DIR$/077_Polymorphism/077_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/090_Composition/090_Composition.iml" filepath="$PROJECT_DIR$/090_Composition/090_Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/091_Composition_Challenge/091_Composition_Challenge.iml" filepath="$PROJECT_DIR$/091_Composition_Challenge/091_Composition_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/092_Encapsulation/092_Encapsulation.iml" filepath="$PROJECT_DIR$/092_Encapsulation/092_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/093_Encapsulation_Challenge/093_Encapsulation_Challenge.iml" filepath="$PROJECT_DIR$/093_Encapsulation_Challenge/093_Encapsulation_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/094_Polymorphism/094_Polymorphism.iml" filepath="$PROJECT_DIR$/094_Polymorphism/094_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/095_Polymorphism_Challenge/095_Polymorphism_Challenge.iml" filepath="$PROJECT_DIR$/095_Polymorphism_Challenge/095_Polymorphism_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/096_OOP_Master_Challenge/096_OOP_Master_Challenge.iml" filepath="$PROJECT_DIR$/096_OOP_Master_Challenge/096_OOP_Master_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/098_Arrays/098_Arrays.iml" filepath="$PROJECT_DIR$/098_Arrays/098_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/099_Arrays_Challenge/099_Arrays_Challenge.iml" filepath="$PROJECT_DIR$/099_Arrays_Challenge/099_Arrays_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/101_References_Types_vs_Value_Types/101_References_Types_vs_Value_Types.iml" filepath="$PROJECT_DIR$/101_References_Types_vs_Value_Types/101_References_Types_vs_Value_Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/102_Minimum_Element_Challenge/102_Minimum_Element_Challenge.iml" filepath="$PROJECT_DIR$/102_Minimum_Element_Challenge/102_Minimum_Element_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/103_Reverse_Array_Challenge/103_Reverse_Array_Challenge.iml" filepath="$PROJECT_DIR$/103_Reverse_Array_Challenge/103_Reverse_Array_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/104_List_And_ArrayList_Part1/104_List_And_ArrayList_Part1.iml" filepath="$PROJECT_DIR$/104_List_And_ArrayList_Part1/104_List_And_ArrayList_Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/107_ArrayList_Challenge/107_ArrayList_Challenge.iml" filepath="$PROJECT_DIR$/107_ArrayList_Challenge/107_ArrayList_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/107_ArrayList_Challenge_Timsolution/107_ArrayList_Challenge_Timsolution.iml" filepath="$PROJECT_DIR$/107_ArrayList_Challenge_Timsolution/107_ArrayList_Challenge_Timsolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge_Timsolution/112_Autoboxing_And_Unboxing_Challenge_Timsolution.iml" filepath="$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge_Timsolution/112_Autoboxing_And_Unboxing_Challenge_Timsolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/115_LinkedList/115_LinkedList.iml" filepath="$PROJECT_DIR$/115_LinkedList/115_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/118_LinkedList_Challenge/118_LinkedList_Challenge.iml" filepath="$PROJECT_DIR$/118_LinkedList_Challenge/118_LinkedList_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/118_LinkedList_Challenge_TimsSolution/118_LinkedList_Challenge_TimsSolution.iml" filepath="$PROJECT_DIR$/118_LinkedList_Challenge_TimsSolution/118_LinkedList_Challenge_TimsSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/122_Interfaces/122_Interfaces.iml" filepath="$PROJECT_DIR$/122_Interfaces/122_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge/124_Interfaces_Challenge.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge/124_Interfaces_Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge_TimsSolution/124_Interfaces_Challenge_TimsSolution.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge_TimsSolution/124_Interfaces_Challenge_TimsSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/126_Inner_Classes/126_Inner_Classes.iml" filepath="$PROJECT_DIR$/126_Inner_Classes/126_Inner_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-the-complete-java-developer-course.iml" filepath="$PROJECT_DIR$/.idea/java-the-complete-java-developer-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge/out/out.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge/out/out.iml" />
+    </modules>
+  </component>
+</project>
