@@ -76,6 +76,7 @@
       <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge/124_Interfaces_Challenge.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge/124_Interfaces_Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge_TimsSolution/124_Interfaces_Challenge_TimsSolution.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge_TimsSolution/124_Interfaces_Challenge_TimsSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/126_Inner_Classes/126_Inner_Classes.iml" filepath="$PROJECT_DIR$/126_Inner_Classes/126_Inner_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/265_Threads/265_Threads.iml" filepath="$PROJECT_DIR$/265_Threads/265_Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-the-complete-java-developer-course.iml" filepath="$PROJECT_DIR$/.idea/java-the-complete-java-developer-course.iml" />
       <module fileurl="file://$PROJECT_DIR$/124_Interfaces_Challenge/out/out.iml" filepath="$PROJECT_DIR$/124_Interfaces_Challenge/out/out.iml" />
     </modules>
