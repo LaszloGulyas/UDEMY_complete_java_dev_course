@@ -12,6 +12,12 @@ public class Main {
             @Override
             public void run() {
                 System.out.println("Hello from OtherRunnableThread");
+                try {
+                    anotherThread.join(1000);
+                    System.out.println("AnotherThread terminated, so I'm running again");
+                } catch (InterruptedException e) {
+                    System.out.println("I couldn't wait after all. I was interrupted");
+                }
             }
         };
         myOtherRunnable.start();

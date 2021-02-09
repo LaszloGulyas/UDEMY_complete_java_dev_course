@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/265_Threads/265_Threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/265_Threads/src/AnotherThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/265_Threads/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/265_Threads/src/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/265_Threads/src/AnotherThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/265_Threads/src/AnotherThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/265_Threads/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/265_Threads/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605526757379</updated>
       <workItem from="1605526758712" duration="1061000" />
-      <workItem from="1612900475289" duration="4604000" />
+      <workItem from="1612900475289" duration="6796000" />
     </task>
+    <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
+      <created>1612907071021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612907071021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="264 - 266 Concurrency, Threads, Runnable" />
+    <option name="LAST_COMMIT_MESSAGE" value="264 - 266 Concurrency, Threads, Runnable" />
   </component>
 </project>
