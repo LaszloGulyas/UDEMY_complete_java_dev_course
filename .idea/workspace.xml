@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="">
+    <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="267 Interrupt, Join">
+      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/268_Multiple_Threads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/CountdownThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/265_Threads/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/265_Threads/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,14 @@
     <property name="project.structure.side.proportion" value="0.31264368" />
     <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="268_Multiple_Threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="265_Threads" />
@@ -68,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -83,7 +95,7 @@
       <updated>1605526757379</updated>
       <workItem from="1605526758712" duration="1061000" />
       <workItem from="1612900475289" duration="7076000" />
-      <workItem from="1612943403930" duration="3110000" />
+      <workItem from="1612943403930" duration="8469000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
@@ -99,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612909517472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="267 Interrupt, Join">
+      <created>1612949903400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612949903400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
