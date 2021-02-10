@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/265_Threads/src/AnotherThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/265_Threads/src/AnotherThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/265_Threads/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/265_Threads/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,15 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605526757379</updated>
       <workItem from="1605526758712" duration="1061000" />
-      <workItem from="1612900475289" duration="6796000" />
+      <workItem from="1612900475289" duration="7076000" />
+      <workItem from="1612943403930" duration="3110000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612907071021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="267 Interrupt, Join">
+      <created>1612909517472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612909517472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,9 +115,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="264 - 266 Concurrency, Threads, Runnable" />
-    <option name="LAST_COMMIT_MESSAGE" value="264 - 266 Concurrency, Threads, Runnable" />
+    <MESSAGE value="267 Interrupt, Join" />
+    <option name="LAST_COMMIT_MESSAGE" value="267 Interrupt, Join" />
   </component>
 </project>
