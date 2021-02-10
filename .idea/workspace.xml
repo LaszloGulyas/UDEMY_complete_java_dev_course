@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="267 Interrupt, Join">
-      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/268_Multiple_Threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/Countdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/CountdownThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/268_Multiple_Threads/src/Main.java" afterDir="false" />
+    <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/271_Producer_and_Consumer/271_Producer_and_Consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/271_Producer_and_Consumer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/271_Producer_and_Consumer/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/271_Producer_and_Consumer/src/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/271_Producer_and_Consumer/src/Writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,10 +53,24 @@
     <property name="project.structure.side.proportion" value="0.31264368" />
     <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="268_Multiple_Threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="271_Producer_and_Consumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,19 +82,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
@@ -95,7 +102,8 @@
       <updated>1605526757379</updated>
       <workItem from="1605526758712" duration="1061000" />
       <workItem from="1612900475289" duration="7076000" />
-      <workItem from="1612943403930" duration="8469000" />
+      <workItem from="1612943403930" duration="15418000" />
+      <workItem from="1612971987352" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
@@ -118,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612949903400</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="268 - 270 Multiple Threads, Synchronization">
+      <created>1612957821695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612957821695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="264 - 266 Concurrency, Threads, Runnable" />
     <MESSAGE value="267 Interrupt, Join" />
-    <option name="LAST_COMMIT_MESSAGE" value="267 Interrupt, Join" />
+    <MESSAGE value="268 - 270 Multiple Threads, Synchronization" />
+    <option name="LAST_COMMIT_MESSAGE" value="268 - 270 Multiple Threads, Synchronization" />
   </component>
 </project>
