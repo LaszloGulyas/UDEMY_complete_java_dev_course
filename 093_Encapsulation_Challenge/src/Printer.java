@@ -1,51 +1,50 @@
 public class Printer {
 
-    private double tonerLevel = 100;
-    private int pagesPrintedTotal;
+    private int tonerLevel;
+    private int pagesPrinted;
     private boolean duplex;
 
-    public Printer(double tonerLevel, int pagesPrintedTotal, boolean duplex) {
-        if(tonerLevel >=0 && tonerLevel <= 100) {
+    public Printer(int tonerLevel, boolean duplex) {
+        if (tonerLevel > -1 && tonerLevel <= 100) {
             this.tonerLevel = tonerLevel;
+        } else {
+            this.tonerLevel = -1;
         }
-        this.pagesPrintedTotal = pagesPrintedTotal;
+
         this.duplex = duplex;
+        this.pagesPrinted = 0;
     }
 
-    public void refillToner () {
-        tonerLevel = 100;
-        System.out.println("Toner level has been refilled to 100");
-    }
+    public int addToner(int tonerAmount) {
+        int result;
 
-    private boolean consumeToner (int pages) {
-        double consumedAmount = pages * 0.1;
-        if(tonerLevel < consumedAmount) {
-            System.out.println("Toner level is too low. Refill the toner!");
-            return false;
+        if (tonerAmount > 0 && tonerAmount < 100) {
+            if ((tonerLevel + tonerAmount) > 100) {
+                result = -1;
+            } else {
+                tonerLevel += tonerAmount;
+                result = tonerLevel;
+            }
         } else {
-            tonerLevel -= consumedAmount;
-            return true;
+            result = -1;
         }
+
+        return result;
     }
 
-    public double getTonerLevel() {
-        return tonerLevel;
+    public int printPages(int pages) {
+        int pagesToPrint = pages;
+
+        if (duplex) {
+            pagesToPrint = (pages + 1) / 2;
+        }
+
+        pagesPrinted += pagesToPrint;
+
+        return pagesToPrint;
     }
 
-    public void printPage (int pageNumber) {
-        int pageUsed = 0;
-        if(duplex) {
-            pageUsed = (pageNumber+1) / 2;
-        } else {
-            pageUsed = pageNumber;
-        }
-
-        if(consumeToner(pageNumber)) {
-            pagesPrintedTotal += pageUsed;
-            System.out.println("Pages printed in this job: " + pageUsed);
-            System.out.println("Total pages printed with this machine: " + pagesPrintedTotal);
-            System.out.println("Job is completed");
-        }
-
+    public int getPagesPrinted() {
+        return this.pagesPrinted;
     }
 }

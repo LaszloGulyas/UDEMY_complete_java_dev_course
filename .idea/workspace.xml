@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/091B_Composition_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/src/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/src/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/src/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/src/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/091B_Composition_Challenge/src/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/093_Encapsulation_Challenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/093_Encapsulation_Challenge/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/093_Encapsulation_Challenge/src/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/093_Encapsulation_Challenge/src/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +86,7 @@
       <workItem from="1625077185103" duration="2573000" />
       <workItem from="1628351208208" duration="257000" />
       <workItem from="1630061039442" duration="15000" />
-      <workItem from="1631097738292" duration="615000" />
+      <workItem from="1631097738292" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
