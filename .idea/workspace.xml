@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change afterPath="$PROJECT_DIR$/099B_Arrays_Challenge/099B_Arrays_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/099B_Arrays_Challenge/src/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/102B_Minimum_Element_Challenge/102B_Minimum_Element_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/102B_Minimum_Element_Challenge/src/MinimumElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,9 +47,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31264368" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SortedArray">
+  <component name="RunManager" selected="Application.MinimumElement">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="268_Multiple_Threads" />
@@ -64,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinimumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumElement" />
+      <module name="102B_Minimum_Element_Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortedArray" />
       <module name="099B_Arrays_Challenge" />
@@ -73,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumElement" />
         <item itemvalue="Application.SortedArray" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -95,7 +103,8 @@
       <workItem from="1625077185103" duration="2573000" />
       <workItem from="1628351208208" duration="257000" />
       <workItem from="1630061039442" duration="15000" />
-      <workItem from="1631097738292" duration="7388000" />
+      <workItem from="1631097738292" duration="8342000" />
+      <workItem from="1631212699229" duration="2352000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
