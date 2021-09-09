@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change afterPath="$PROJECT_DIR$/102B_Minimum_Element_Challenge/102B_Minimum_Element_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/102B_Minimum_Element_Challenge/src/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103B_Reverse_Array_Challenge/103B_Reverse_Array_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103B_Reverse_Array_Challenge/src/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.31264368" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MinimumElement">
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="268_Multiple_Threads" />
@@ -71,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+      <module name="103B_Reverse_Array_Challenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortedArray" />
       <module name="099B_Arrays_Challenge" />
@@ -80,10 +87,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.MinimumElement" />
         <item itemvalue="Application.SortedArray" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -104,7 +111,7 @@
       <workItem from="1628351208208" duration="257000" />
       <workItem from="1630061039442" duration="15000" />
       <workItem from="1631097738292" duration="8342000" />
-      <workItem from="1631212699229" duration="2352000" />
+      <workItem from="1631212699229" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
