@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change afterPath="$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge/112_Autoboxing_And_Unboxing_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge/src/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/112_Autoboxing_And_Unboxing_Challenge/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118B_LinkedList_Challenge/118B_LinkedList_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118B_LinkedList_Challenge/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118B_LinkedList_Challenge/src/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,52 +51,6 @@
     <property name="project.structure.side.proportion" value="0.31264368" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="268_Multiple_Threads" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="265_Threads" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumElement" />
-      <module name="102B_Minimum_Element_Challenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
-      <module name="103B_Reverse_Array_Challenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedArray" />
-      <module name="099B_Arrays_Challenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.MinimumElement" />
-        <item itemvalue="Application.SortedArray" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +69,8 @@
       <workItem from="1631097738292" duration="8342000" />
       <workItem from="1631212699229" duration="3673000" />
       <workItem from="1631281592466" duration="198000" />
-      <workItem from="1632053062002" duration="7807000" />
+      <workItem from="1632053062002" duration="7887000" />
+      <workItem from="1632207342888" duration="2796000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
