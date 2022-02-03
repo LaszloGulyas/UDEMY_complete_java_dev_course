@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
+      <change afterPath="$PROJECT_DIR$/133_Abstract_Class_Challenge/133_Abstract_Class_Challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/130_Abstract_Classes_Part1/src/Penguin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +17,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="rancher-desktop" />
@@ -64,40 +71,16 @@
       <recent name="C:\Repos\UDEMY_complete_java_dev_course\128_Inner_Classes_Part2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Asd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Asd" />
-      <module name="129_Inner_Classes_Challenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="129_Inner_Classes_Challenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="130_Abstract_Classes_Part1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="128_Inner_Classes_Part2" />
+      <module name="133_Abstract_Class_Challenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Asd" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -124,7 +107,9 @@
       <workItem from="1632207342888" duration="2857000" />
       <workItem from="1632212193737" duration="1445000" />
       <workItem from="1643658154781" duration="7061000" />
-      <workItem from="1643743718502" duration="2434000" />
+      <workItem from="1643743718502" duration="11880000" />
+      <workItem from="1643794637096" duration="12875000" />
+      <workItem from="1643883599992" duration="5571000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
