@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change beforePath="$PROJECT_DIR$/137_Our_Generics_Class/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/137_Our_Generics_Class/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/137_Our_Generics_Class/src/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/137_Our_Generics_Class/src/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/140_Generics_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/src/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/src/MajorTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/src/MinorTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/140_Generics_Challenge/src/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +63,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/140_Generics_Challenge/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -67,13 +73,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repos\UDEMY_complete_java_dev_course\140_Generics_Challenge\src" />
       <recent name="C:\Repos\UDEMY_complete_java_dev_course\128_Inner_Classes_Part2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="137_Our_Generics_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="140_Generics_Challenge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -117,6 +132,7 @@
       <workItem from="1643743718502" duration="11880000" />
       <workItem from="1643794637096" duration="12875000" />
       <workItem from="1643883599992" duration="5571000" />
+      <workItem from="1645085932707" duration="2885000" />
     </task>
     <task id="LOCAL-00001" summary="264 - 266 Concurrency, Threads, Runnable">
       <created>1612907071021</created>
