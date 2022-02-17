@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 // T type can be any class that extends Player class
-public class Team<T extends Player> {
+public class Team<T extends Player> implements Comparable<Team<T>> {
 
     private String name;
 
@@ -35,7 +35,7 @@ public class Team<T extends Player> {
         return this.members.size();
     }
 
-    public void matchResult(Team opponent, int ourScore, int theirScore) {
+    public void matchResult(Team<T> opponent, int ourScore, int theirScore) {
         String message;
 
         if (ourScore > theirScore) {
@@ -58,5 +58,16 @@ public class Team<T extends Player> {
 
     public int ranking() {
         return (won * 2) + tied;
+    }
+
+    @Override
+    public int compareTo(Team<T> team) {
+        if (this.ranking() > team.ranking()) {
+            return -1;
+        } else if (this.ranking() == team.ranking()) {
+            return 0;
+        } else {
+            return 1;
+        }
     }
 }
