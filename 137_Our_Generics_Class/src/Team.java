@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
-public class Team {
+// T type can be any class that extends Player class
+public class Team<T extends Player> {
 
     private String name;
 
@@ -9,7 +10,7 @@ public class Team {
     int lost = 0;
     int tied = 0;
 
-    private ArrayList<Player> members = new ArrayList<>();
+    private ArrayList<T> members = new ArrayList<>();
 
     public Team(String name) {
         this.name = name;
@@ -19,7 +20,7 @@ public class Team {
         return name;
     }
 
-    public boolean addPlayer(Player player) {
+    public boolean addPlayer(T player) {
         if (members.contains(player)) {
             System.out.println(player.getName() + " is already on this team");
             return false;
@@ -35,16 +36,22 @@ public class Team {
     }
 
     public void matchResult(Team opponent, int ourScore, int theirScore) {
+        String message;
+
         if (ourScore > theirScore) {
             won++;
+            message = " beat ";
         } else if (ourScore == theirScore) {
             tied++;
+            message = " drew with ";
         } else {
             lost++;
+            message = " lost to ";
         }
         played++;
 
         if (opponent != null) {
+            System.out.println(this.getName() + message + opponent.getName());
             opponent.matchResult(null, theirScore, ourScore);
         }
     }

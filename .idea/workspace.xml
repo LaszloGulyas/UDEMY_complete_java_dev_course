@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14735740-f391-401e-9c6c-cbee749e7242" name="Default Changelist" comment="268 - 270 Multiple Threads, Synchronization">
-      <change afterPath="$PROJECT_DIR$/137_Our_Generics_Class/137_Our_Generics_Class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/137_Our_Generics_Class/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/137_Our_Generics_Class/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/137_Our_Generics_Class/src/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/137_Our_Generics_Class/src/Team.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31264368" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
